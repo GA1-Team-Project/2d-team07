@@ -1,0 +1,2704 @@
+fileFormatVersion: 2
+guid: db66e1495664d6a4ca2952a888d43218
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6303281714191449858
+    second: KingSlime-Sheet_0
+  - first:
+      213: -769000485988246079
+    second: KingSlime-Sheet_1
+  - first:
+      213: 4156977313255030251
+    second: KingSlime-Sheet_2
+  - first:
+      213: 8559101219965623469
+    second: KingSlime-Sheet_3
+  - first:
+      213: -1158920614485947358
+    second: KingSlime-Sheet_4
+  - first:
+      213: 411046515982367974
+    second: KingSlime-Sheet_5
+  - first:
+      213: -2580000428322325666
+    second: KingSlime-Sheet_6
+  - first:
+      213: -1225608218027294295
+    second: KingSlime-Sheet_7
+  - first:
+      213: 7697523964424690499
+    second: KingSlime-Sheet_8
+  - first:
+      213: 4524717563683688769
+    second: KingSlime-Sheet_9
+  - first:
+      213: 2205977789300845800
+    second: KingSlime-Sheet_10
+  - first:
+      213: -4121001697276291794
+    second: KingSlime-Sheet_11
+  - first:
+      213: 3427963540359092964
+    second: KingSlime-Sheet_12
+  - first:
+      213: -8040576264553659198
+    second: KingSlime-Sheet_13
+  - first:
+      213: -3818469777835969395
+    second: KingSlime-Sheet_14
+  - first:
+      213: -6491947219364978086
+    second: KingSlime-Sheet_15
+  - first:
+      213: 5017263412126989204
+    second: KingSlime-Sheet_16
+  - first:
+      213: 97675380188998890
+    second: KingSlime-Sheet_17
+  - first:
+      213: -3227144349583996139
+    second: KingSlime-Sheet_18
+  - first:
+      213: 763576837682440851
+    second: KingSlime-Sheet_19
+  - first:
+      213: 1457839835460142630
+    second: KingSlime-Sheet_20
+  - first:
+      213: 5873654771169332743
+    second: KingSlime-Sheet_21
+  - first:
+      213: -964122297769222142
+    second: KingSlime-Sheet_22
+  - first:
+      213: -7345014101926708883
+    second: KingSlime-Sheet_23
+  - first:
+      213: 2540757811820446813
+    second: KingSlime-Sheet_24
+  - first:
+      213: 2903349477045206519
+    second: KingSlime-Sheet_25
+  - first:
+      213: 8739340546071906163
+    second: KingSlime-Sheet_26
+  - first:
+      213: -6257820077433179681
+    second: KingSlime-Sheet_27
+  - first:
+      213: 1026636990269305251
+    second: KingSlime-Sheet_28
+  - first:
+      213: 5981870767676397149
+    second: KingSlime-Sheet_29
+  - first:
+      213: -6419999150995702430
+    second: KingSlime-Sheet_30
+  - first:
+      213: 6457087180787625194
+    second: KingSlime-Sheet_31
+  - first:
+      213: -1633766382603466654
+    second: KingSlime-Sheet_32
+  - first:
+      213: -2358357597142460978
+    second: KingSlime-Sheet_33
+  - first:
+      213: -6830175197486500890
+    second: KingSlime-Sheet_34
+  - first:
+      213: 5615635329289880621
+    second: KingSlime-Sheet_35
+  - first:
+      213: 4050151863649381816
+    second: KingSlime-Sheet_36
+  - first:
+      213: -8459098707019510677
+    second: KingSlime-Sheet_37
+  - first:
+      213: -9128600970025077041
+    second: KingSlime-Sheet_38
+  - first:
+      213: -1649654914482577023
+    second: KingSlime-Sheet_39
+  - first:
+      213: 8934541620343790098
+    second: KingSlime-Sheet_40
+  - first:
+      213: -4243814024532558568
+    second: KingSlime-Sheet_41
+  - first:
+      213: -8656379514985615602
+    second: KingSlime-Sheet_42
+  - first:
+      213: -7551344022877091364
+    second: KingSlime-Sheet_43
+  - first:
+      213: 812192240608482968
+    second: KingSlime-Sheet_44
+  - first:
+      213: -7800572359058274643
+    second: KingSlime-Sheet_45
+  - first:
+      213: -1681661685218297717
+    second: KingSlime-Sheet_46
+  - first:
+      213: -5050767039657955676
+    second: KingSlime-Sheet_47
+  - first:
+      213: -7228343830736340021
+    second: KingSlime-Sheet_48
+  - first:
+      213: -349033403450102600
+    second: KingSlime-Sheet_49
+  - first:
+      213: -7958696457738417471
+    second: KingSlime-Sheet_50
+  - first:
+      213: -5863720619699603732
+    second: KingSlime-Sheet_51
+  - first:
+      213: 6197307706989203738
+    second: KingSlime-Sheet_52
+  - first:
+      213: 4545348157896114185
+    second: KingSlime-Sheet_53
+  - first:
+      213: -8928427457235231063
+    second: KingSlime-Sheet_54
+  - first:
+      213: -5981935141363482515
+    second: KingSlime-Sheet_55
+  - first:
+      213: -3880501807687077598
+    second: KingSlime-Sheet_56
+  - first:
+      213: -5980119184999807680
+    second: KingSlime-Sheet_57
+  - first:
+      213: 4027156453592792094
+    second: KingSlime-Sheet_58
+  - first:
+      213: -6978477861660860627
+    second: KingSlime-Sheet_59
+  - first:
+      213: 3264404937473524057
+    second: KingSlime-Sheet_60
+  - first:
+      213: -4072265006781495831
+    second: KingSlime-Sheet_61
+  - first:
+      213: -6760076044515794358
+    second: KingSlime-Sheet_62
+  - first:
+      213: -1719059257299234323
+    second: KingSlime-Sheet_63
+  - first:
+      213: 5360858969909965529
+    second: KingSlime-Sheet_64
+  - first:
+      213: 3943815277723534365
+    second: KingSlime-Sheet_65
+  - first:
+      213: -4664981264057084859
+    second: KingSlime-Sheet_66
+  - first:
+      213: 7689458742009660247
+    second: KingSlime-Sheet_67
+  - first:
+      213: -775164760905970429
+    second: KingSlime-Sheet_68
+  - first:
+      213: -5430879616513792727
+    second: KingSlime-Sheet_69
+  - first:
+      213: 4854084220862007290
+    second: KingSlime-Sheet_70
+  - first:
+      213: -1420004387708807241
+    second: KingSlime-Sheet_71
+  - first:
+      213: 8145431922470165674
+    second: KingSlime-Sheet_72
+  - first:
+      213: -4767245050851763652
+    second: KingSlime-Sheet_73
+  - first:
+      213: 6575903036068741060
+    second: KingSlime-Sheet_74
+  - first:
+      213: -1723539838099472396
+    second: KingSlime-Sheet_75
+  - first:
+      213: 6166713970386497438
+    second: KingSlime-Sheet_76
+  - first:
+      213: -5504016476613288995
+    second: KingSlime-Sheet_77
+  - first:
+      213: 1601551768319850664
+    second: KingSlime-Sheet_78
+  - first:
+      213: 3219651678272472331
+    second: KingSlime-Sheet_79
+  - first:
+      213: -5129010391519525690
+    second: KingSlime-Sheet_80
+  - first:
+      213: 863378073638617360
+    second: KingSlime-Sheet_81
+  - first:
+      213: 643718457926121975
+    second: KingSlime-Sheet_82
+  - first:
+      213: -2933757472426805686
+    second: KingSlime-Sheet_83
+  - first:
+      213: -3407665921574552328
+    second: KingSlime-Sheet_84
+  - first:
+      213: -2822628247744178460
+    second: KingSlime-Sheet_85
+  - first:
+      213: -4554891374748698460
+    second: KingSlime-Sheet_86
+  - first:
+      213: 5778838841044329354
+    second: KingSlime-Sheet_87
+  - first:
+      213: -3290484326567279460
+    second: KingSlime-Sheet_88
+  - first:
+      213: -6963433037653105252
+    second: KingSlime-Sheet_89
+  - first:
+      213: 4363790122106482509
+    second: KingSlime-Sheet_90
+  - first:
+      213: 4906634990080978349
+    second: KingSlime-Sheet_91
+  - first:
+      213: -6464234409557322038
+    second: KingSlime-Sheet_92
+  - first:
+      213: -5139875642500438393
+    second: KingSlime-Sheet_93
+  - first:
+      213: -4221471864696680240
+    second: KingSlime-Sheet_94
+  - first:
+      213: 2975458460323909445
+    second: KingSlime-Sheet_95
+  - first:
+      213: 1806713043896091155
+    second: KingSlime-Sheet_96
+  - first:
+      213: -3610308621839746148
+    second: KingSlime-Sheet_97
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KingSlime-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 559
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0476a5dae3688a0800000000000000
+      internalID: -6303281714191449858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 479
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd5190e126f355f0800000000000000
+      internalID: -769000485988246079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 479
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed7cef77dc80b930800000000000000
+      internalID: 4156977313255030251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 479
+        width: 70
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dacd9a4263908c670800000000000000
+      internalID: 8559101219965623469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 479
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c00b267dfaaefe0800000000000000
+      internalID: -1158920614485947358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 479
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec7a43e0a454b500800000000000000
+      internalID: 411046515982367974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 479
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bfd75a74ff13cd0800000000000000
+      internalID: -2580000428322325666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 479
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a10faab1d3cdfee0800000000000000
+      internalID: -1225608218027294295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 479
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b179d234913da60800000000000000
+      internalID: 7697523964424690499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 399
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1415654b6a60bce30800000000000000
+      internalID: 4524717563683688769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 399
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecada19c153d9e10800000000000000
+      internalID: 2205977789300845800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 399
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2590135ac24fc6c0800000000000000
+      internalID: -4121001697276291794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 399
+        width: 70
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea18168da2929f20800000000000000
+      internalID: 3427963540359092964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 399
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c487d9fc722a6090800000000000000
+      internalID: -8040576264553659198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 399
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84b58ad7f1120bc0800000000000000
+      internalID: -3818469777835969395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 399
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a526a295668f7e5a0800000000000000
+      internalID: -6491947219364978086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 399
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bb460ad76e0a540800000000000000
+      internalID: 5017263412126989204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 399
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec6773ad330b5100800000000000000
+      internalID: 97675380188998890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 399
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b032cef41e633d0800000000000000
+      internalID: -3227144349583996139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 399
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a27c89615c89a00800000000000000
+      internalID: 763576837682440851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 399
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626040c3b994b3410800000000000000
+      internalID: 1457839835460142630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 399
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e83d8f4e9638150800000000000000
+      internalID: 5873654771169332743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 399
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200ae69d0efbe92f0800000000000000
+      internalID: -964122297769222142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 399
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d697c600794411a90800000000000000
+      internalID: -7345014101926708883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 399
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d544bd1b4c5924320800000000000000
+      internalID: 2540757811820446813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 399
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd781e77f4ca4820800000000000000
+      internalID: 2903349477045206519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 399
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377c8c37cef584970800000000000000
+      internalID: 8739340546071906163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 399
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1b9408bc1c729a0800000000000000
+      internalID: -6257820077433179681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 399
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1374e37e85f3e00800000000000000
+      internalID: 1026636990269305251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 399
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5615a715cfd30350800000000000000
+      internalID: 5981870767676397149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 399
+        width: 66
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d779a69c497e6a0800000000000000
+      internalID: -6419999150995702430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 399
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec239e649e2c9950800000000000000
+      internalID: 6457087180787625194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 399
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26802fe8122b359e0800000000000000
+      internalID: -1633766382603466654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 319
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5daf0b24e654fd0800000000000000
+      internalID: -2358357597142460978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 319
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3322088d75631a0800000000000000
+      internalID: -6830175197486500890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 319
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24057e349ebeed40800000000000000
+      internalID: 5615635329289880621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 319
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd253f49a7053830800000000000000
+      internalID: 4050151863649381816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 319
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6cc2205b8e3b9a80800000000000000
+      internalID: -8459098707019510677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 319
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc67e5d78c1b05180800000000000000
+      internalID: -9128600970025077041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 319
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181e944789f3b19e0800000000000000
+      internalID: -1649654914482577023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 319
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ad887344eddfb70800000000000000
+      internalID: 8934541620343790098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 319
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d7aee11a1fa15c0800000000000000
+      internalID: -4243814024532558568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 319
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f6050d1bc5ed780800000000000000
+      internalID: -8656379514985615602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 319
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd944a3be9c343790800000000000000
+      internalID: -7551344022877091364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 319
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8961cc62a8c754b00800000000000000
+      internalID: 812192240608482968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 319
+        width: 72
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6c995c4ccceb390800000000000000
+      internalID: -7800572359058274643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 319
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88bd2c6b9989a8e0800000000000000
+      internalID: -1681661685218297717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 319
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aeafe5332218e9b0800000000000000
+      internalID: -5050767039657955676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 319
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbf2965593cfab90800000000000000
+      internalID: -7228343830736340021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 319
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc6c9408fbf72bf0800000000000000
+      internalID: -349033403450102600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 319
+        width: 72
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca87591db70d8190800000000000000
+      internalID: -7958696457738417471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 319
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6fba8e921ef9ea0800000000000000
+      internalID: -5863720619699603732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 319
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11d1e65682410650800000000000000
+      internalID: 6197307706989203738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 319
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900cfdb3112541f30800000000000000
+      internalID: 4545348157896114185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 319
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae56a0588ad71480800000000000000
+      internalID: -8928427457235231063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 239
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d608a9dbea5ebfca0800000000000000
+      internalID: -5981935141363482515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 239
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221fc8a6a20b52ac0800000000000000
+      internalID: -3880501807687077598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 239
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04586970949520da0800000000000000
+      internalID: -5980119184999807680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 239
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cf15f257553e730800000000000000
+      internalID: 4027156453592792094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 159
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fd6cebb57772f90800000000000000
+      internalID: -6978477861660860627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 159
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951042dbefe7d4d20800000000000000
+      internalID: 3264404937473524057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 159
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e509875d886c77c0800000000000000
+      internalID: -4072265006781495831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 159
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42220867a26f22a0800000000000000
+      internalID: -6760076044515794358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 159
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de115d4a6bca428e0800000000000000
+      internalID: -1719059257299234323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 159
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2337084d8956a40800000000000000
+      internalID: 5360858969909965529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 159
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d144870991f3bb630800000000000000
+      internalID: 3943815277723534365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 159
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5445608a148a24fb0800000000000000
+      internalID: -4664981264057084859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 159
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75302804cf176ba60800000000000000
+      internalID: 7689458742009660247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 159
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d8cc7c1cf0e35f0800000000000000
+      internalID: -775164760905970429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 159
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92529c743c3a1a4b0800000000000000
+      internalID: -5430879616513792727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 159
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af70f4e71eb2d5340800000000000000
+      internalID: 4854084220862007290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 159
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7de1b68812b4ce0800000000000000
+      internalID: -1420004387708807241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 159
+        width: 69
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac16f85d236a0170800000000000000
+      internalID: 8145431922470165674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 159
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3addba52e757ddb0800000000000000
+      internalID: -4767245050851763652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 159
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf3a4e78fc424b50800000000000000
+      internalID: 6575903036068741060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 159
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffb8d126a1c418e0800000000000000
+      internalID: -1723539838099472396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 159
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f6354fea1949550800000000000000
+      internalID: 6166713970386497438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 159
+        width: 69
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb51911d2ecd93b0800000000000000
+      internalID: -5504016476613288995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 159
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a87a1019dad93610800000000000000
+      internalID: 1601551768319850664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 159
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05cbe794208eac20800000000000000
+      internalID: 3219651678272472331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 159
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4013c393812d8b0800000000000000
+      internalID: -5129010391519525690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 159
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011471a98c55bfb00800000000000000
+      internalID: 863378073638617360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 159
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f97c04e682fee800800000000000000
+      internalID: 643718457926121975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 79
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a463ade5f133947d0800000000000000
+      internalID: -2933757472426805686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 79
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc385f16e985b0d0800000000000000
+      internalID: -3407665921574552328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 79
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e69938409204d8d0800000000000000
+      internalID: -2822628247744178460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 79
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8fc917d66c9c0c0800000000000000
+      internalID: -4554891374748698460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a836daeee4f823050800000000000000
+      internalID: 5778838841044329354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9487ff40f9d552d0800000000000000
+      internalID: -3290484326567279460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95a77dcb8aec5f90800000000000000
+      internalID: -6963433037653105252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fe386eefb4f8c30800000000000000
+      internalID: 4363790122106482509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad674ae68ed71440800000000000000
+      internalID: 4906634990080978349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 0
+        width: 72
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac69a71bd0d6a46a0800000000000000
+      internalID: -6464234409557322038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786241bd55e7ba8b0800000000000000
+      internalID: -5139875642500438393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 0
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0d27394b15a65c0800000000000000
+      internalID: -4221471864696680240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 0
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f898b74b3fa4920800000000000000
+      internalID: 2975458460323909445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 0
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312cd78e0fbb21910800000000000000
+      internalID: 1806713043896091155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingSlime-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 0
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b36b9cf6b95edc0800000000000000
+      internalID: -3610308621839746148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      KingSlime-Sheet_0: -6303281714191449858
+      KingSlime-Sheet_1: -769000485988246079
+      KingSlime-Sheet_10: 2205977789300845800
+      KingSlime-Sheet_11: -4121001697276291794
+      KingSlime-Sheet_12: 3427963540359092964
+      KingSlime-Sheet_13: -8040576264553659198
+      KingSlime-Sheet_14: -3818469777835969395
+      KingSlime-Sheet_15: -6491947219364978086
+      KingSlime-Sheet_16: 5017263412126989204
+      KingSlime-Sheet_17: 97675380188998890
+      KingSlime-Sheet_18: -3227144349583996139
+      KingSlime-Sheet_19: 763576837682440851
+      KingSlime-Sheet_2: 4156977313255030251
+      KingSlime-Sheet_20: 1457839835460142630
+      KingSlime-Sheet_21: 5873654771169332743
+      KingSlime-Sheet_22: -964122297769222142
+      KingSlime-Sheet_23: -7345014101926708883
+      KingSlime-Sheet_24: 2540757811820446813
+      KingSlime-Sheet_25: 2903349477045206519
+      KingSlime-Sheet_26: 8739340546071906163
+      KingSlime-Sheet_27: -6257820077433179681
+      KingSlime-Sheet_28: 1026636990269305251
+      KingSlime-Sheet_29: 5981870767676397149
+      KingSlime-Sheet_3: 8559101219965623469
+      KingSlime-Sheet_30: -6419999150995702430
+      KingSlime-Sheet_31: 6457087180787625194
+      KingSlime-Sheet_32: -1633766382603466654
+      KingSlime-Sheet_33: -2358357597142460978
+      KingSlime-Sheet_34: -6830175197486500890
+      KingSlime-Sheet_35: 5615635329289880621
+      KingSlime-Sheet_36: 4050151863649381816
+      KingSlime-Sheet_37: -8459098707019510677
+      KingSlime-Sheet_38: -9128600970025077041
+      KingSlime-Sheet_39: -1649654914482577023
+      KingSlime-Sheet_4: -1158920614485947358
+      KingSlime-Sheet_40: 8934541620343790098
+      KingSlime-Sheet_41: -4243814024532558568
+      KingSlime-Sheet_42: -8656379514985615602
+      KingSlime-Sheet_43: -7551344022877091364
+      KingSlime-Sheet_44: 812192240608482968
+      KingSlime-Sheet_45: -7800572359058274643
+      KingSlime-Sheet_46: -1681661685218297717
+      KingSlime-Sheet_47: -5050767039657955676
+      KingSlime-Sheet_48: -7228343830736340021
+      KingSlime-Sheet_49: -349033403450102600
+      KingSlime-Sheet_5: 411046515982367974
+      KingSlime-Sheet_50: -7958696457738417471
+      KingSlime-Sheet_51: -5863720619699603732
+      KingSlime-Sheet_52: 6197307706989203738
+      KingSlime-Sheet_53: 4545348157896114185
+      KingSlime-Sheet_54: -8928427457235231063
+      KingSlime-Sheet_55: -5981935141363482515
+      KingSlime-Sheet_56: -3880501807687077598
+      KingSlime-Sheet_57: -5980119184999807680
+      KingSlime-Sheet_58: 4027156453592792094
+      KingSlime-Sheet_59: -6978477861660860627
+      KingSlime-Sheet_6: -2580000428322325666
+      KingSlime-Sheet_60: 3264404937473524057
+      KingSlime-Sheet_61: -4072265006781495831
+      KingSlime-Sheet_62: -6760076044515794358
+      KingSlime-Sheet_63: -1719059257299234323
+      KingSlime-Sheet_64: 5360858969909965529
+      KingSlime-Sheet_65: 3943815277723534365
+      KingSlime-Sheet_66: -4664981264057084859
+      KingSlime-Sheet_67: 7689458742009660247
+      KingSlime-Sheet_68: -775164760905970429
+      KingSlime-Sheet_69: -5430879616513792727
+      KingSlime-Sheet_7: -1225608218027294295
+      KingSlime-Sheet_70: 4854084220862007290
+      KingSlime-Sheet_71: -1420004387708807241
+      KingSlime-Sheet_72: 8145431922470165674
+      KingSlime-Sheet_73: -4767245050851763652
+      KingSlime-Sheet_74: 6575903036068741060
+      KingSlime-Sheet_75: -1723539838099472396
+      KingSlime-Sheet_76: 6166713970386497438
+      KingSlime-Sheet_77: -5504016476613288995
+      KingSlime-Sheet_78: 1601551768319850664
+      KingSlime-Sheet_79: 3219651678272472331
+      KingSlime-Sheet_8: 7697523964424690499
+      KingSlime-Sheet_80: -5129010391519525690
+      KingSlime-Sheet_81: 863378073638617360
+      KingSlime-Sheet_82: 643718457926121975
+      KingSlime-Sheet_83: -2933757472426805686
+      KingSlime-Sheet_84: -3407665921574552328
+      KingSlime-Sheet_85: -2822628247744178460
+      KingSlime-Sheet_86: -4554891374748698460
+      KingSlime-Sheet_87: 5778838841044329354
+      KingSlime-Sheet_88: -3290484326567279460
+      KingSlime-Sheet_89: -6963433037653105252
+      KingSlime-Sheet_9: 4524717563683688769
+      KingSlime-Sheet_90: 4363790122106482509
+      KingSlime-Sheet_91: 4906634990080978349
+      KingSlime-Sheet_92: -6464234409557322038
+      KingSlime-Sheet_93: -5139875642500438393
+      KingSlime-Sheet_94: -4221471864696680240
+      KingSlime-Sheet_95: 2975458460323909445
+      KingSlime-Sheet_96: 1806713043896091155
+      KingSlime-Sheet_97: -3610308621839746148
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
