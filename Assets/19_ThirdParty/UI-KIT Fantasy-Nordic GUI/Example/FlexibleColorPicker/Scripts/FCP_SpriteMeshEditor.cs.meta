@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7ea7ea40fb6ab6048a5f962e5dab4e5d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304113
+  packageName: UI-KIT Fantasy-Nordic GUI
+  packageVersion: 1.04
+  assetPath: Assets/UI-KIT Fantasy-Nordic GUI/Example/FlexibleColorPicker/Scripts/FCP_SpriteMeshEditor.cs
+  uploadId: 838396
