@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 57cf3d37fbd94ea4081086b1e8f82423
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304113
+  packageName: UI-KIT Fantasy-Nordic GUI
+  packageVersion: 1.04
+  assetPath: Assets/UI-KIT Fantasy-Nordic GUI/ResourceData/Scripts/CustomSliderVisualization.cs
+  uploadId: 838396

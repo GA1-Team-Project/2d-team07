@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c3c116db3f691494fa70f35c435ab47e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304113
+  packageName: UI-KIT Fantasy-Nordic GUI
+  packageVersion: 1.04
+  assetPath: Assets/UI-KIT Fantasy-Nordic GUI/Example/Scripts/BarElement.cs
+  uploadId: 838396

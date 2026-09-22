@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7da1b0489b84d12469f154b8cd52049c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304113
+  packageName: UI-KIT Fantasy-Nordic GUI
+  packageVersion: 1.04
+  assetPath: Assets/UI-KIT Fantasy-Nordic GUI/Example/FlexibleColorPicker/Scripts/FCP_Persistence.cs
+  uploadId: 838396

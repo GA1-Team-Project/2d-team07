@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5c0325a4e257b5f46ab0ba57d89184a7
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304113
+  packageName: UI-KIT Fantasy-Nordic GUI
+  packageVersion: 1.04
+  assetPath: Assets/UI-KIT Fantasy-Nordic GUI/Example/FlexibleColorPicker/Materials/FCP_Gradient.shader
+  uploadId: 838396
