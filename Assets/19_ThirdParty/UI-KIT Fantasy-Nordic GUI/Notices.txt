@@ -1,0 +1,1 @@
+To see Vollkorn licence details open Assets/UI-KIT Fantasy-Nordic GUI/ResourceData/Fonts/OFL.txt file
