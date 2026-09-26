@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: 080dee4e8fd57d7419475a3e371efeaf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -527885272381704573
+    second: Wildboar_Sheet_0
+  - first:
+      213: 2961547849429141569
+    second: Wildboar_Sheet_1
+  - first:
+      213: -335580559929407488
+    second: Wildboar_Sheet_2
+  - first:
+      213: 4728421587029404282
+    second: Wildboar_Sheet_3
+  - first:
+      213: -1575679966824821377
+    second: Wildboar_Sheet_4
+  - first:
+      213: 3196453642349659526
+    second: Wildboar_Sheet_5
+  - first:
+      213: 1481239712364827838
+    second: Wildboar_Sheet_6
+  - first:
+      213: -1859123544067297040
+    second: Wildboar_Sheet_7
+  - first:
+      213: -4507355183732385911
+    second: Wildboar_Sheet_8
+  - first:
+      213: -3024587540063909679
+    second: Wildboar_Sheet_9
+  - first:
+      213: -1026654187619518486
+    second: Wildboar_Sheet_10
+  - first:
+      213: -8595061020727272344
+    second: Wildboar_Sheet_11
+  - first:
+      213: 5278066010680601942
+    second: Wildboar_Sheet_12
+  - first:
+      213: -3570193640756583539
+    second: Wildboar_Sheet_13
+  - first:
+      213: -1325143526358289541
+    second: Wildboar_Sheet_14
+  - first:
+      213: -350360528365540722
+    second: Wildboar_Sheet_15
+  - first:
+      213: 1958288965309462831
+    second: Wildboar_Sheet_16
+  - first:
+      213: 5598052447041826918
+    second: Wildboar_Sheet_17
+  - first:
+      213: -298110766319077460
+    second: Wildboar_Sheet_18
+  - first:
+      213: 5178740258926102840
+    second: Wildboar_Sheet_19
+  - first:
+      213: 4802472780965694275
+    second: Wildboar_Sheet_20
+  - first:
+      213: 8713677755737441959
+    second: Wildboar_Sheet_21
+  - first:
+      213: 8730385787534809977
+    second: Wildboar_Sheet_22
+  - first:
+      213: -7495106779289545314
+    second: Wildboar_Sheet_23
+  - first:
+      213: 3294871848786530941
+    second: Wildboar_Sheet_24
+  - first:
+      213: 2793970184391836004
+    second: Wildboar_Sheet_25
+  - first:
+      213: 6104888946061331356
+    second: Wildboar_Sheet_26
+  - first:
+      213: -8258097646275341358
+    second: Wildboar_Sheet_27
+  - first:
+      213: 1270342773671556951
+    second: Wildboar_Sheet_28
+  - first:
+      213: -297255597292031853
+    second: Wildboar_Sheet_29
+  - first:
+      213: 6978688694133960008
+    second: Wildboar_Sheet_30
+  - first:
+      213: -4815152389887183512
+    second: Wildboar_Sheet_31
+  - first:
+      213: 2232108579918663024
+    second: Wildboar_Sheet_32
+  - first:
+      213: -3813650230524369525
+    second: Wildboar_Sheet_33
+  - first:
+      213: -8148434195063571867
+    second: Wildboar_Sheet_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wildboar_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 159
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386378144239ca8f0800000000000000
+      internalID: -527885272381704573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wildboar_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 159
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148cb8ef318891920800000000000000
+      internalID: 2961547849429141569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wildboar_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 159
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00881eb3247c75bf0800000000000000
+      internalID: -335580559929407488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wildboar_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 159
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a2d23916abe9140800000000000000
+      internalID: 4728421587029404282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wildboar_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 127
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d05b12b6f022ae0800000000000000
+      internalID: -1575679966824821377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wildboar_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 127
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6854145f6a51c5c20800000000000000
+      internalID: 3196453642349659526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wildboar_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 127
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb415b2abab6e8410800000000000000
+      internalID: 1481239712364827838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wildboar_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 127
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0bd4a9cf01336e0800000000000000
+      internalID: -1859123544067297040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wildboar_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 127
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9879d156758a271c0800000000000000
+      internalID: -4507355183732385911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wildboar_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 127
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d80b6248a18606d0800000000000000
+      internalID: -3024587540063909679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wildboar_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 95
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae775cfa47790c1f0800000000000000
+      internalID: -1026654187619518486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wildboar_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 95
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c9ebc4a8538b880800000000000000
+      internalID: -8595061020727272344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wildboar_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 95
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d2ea382157f3940800000000000000
+      internalID: 5278066010680601942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wildboar_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 95
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d836857accf147ec0800000000000000
+      internalID: -3570193640756583539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wildboar_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 95
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b737103dbf42c9de0800000000000000
+      internalID: -1325143526358289541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wildboar_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 95
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a247ba4f4432bf0800000000000000
+      internalID: -350360528365540722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wildboar_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 63
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2976d0407d3d2b10800000000000000
+      internalID: 1958288965309462831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wildboar_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 63
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6603fe37a0740bd40800000000000000
+      internalID: 5598052447041826918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wildboar_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 64
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7f4d566d5ecdbf0800000000000000
+      internalID: -298110766319077460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wildboar_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 64
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8390e4dc3d49ed740800000000000000
+      internalID: 5178740258926102840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wildboar_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 63
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b41f8bc8fc5a240800000000000000
+      internalID: 4802472780965694275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wildboar_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 63
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a604f570c33de870800000000000000
+      internalID: 8713677755737441959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wildboar_Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 64
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b91224e9f882970800000000000000
+      internalID: 8730385787534809977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wildboar_Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 64
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9513d258180cf790800000000000000
+      internalID: -7495106779289545314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wildboar_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 63
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d721b5f4d7cb9bd20800000000000000
+      internalID: 3294871848786530941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wildboar_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 31
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46145b1641d26c620800000000000000
+      internalID: 2793970184391836004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wildboar_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 31
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bc13fb62ce8b450800000000000000
+      internalID: 6104888946061331356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wildboar_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 31
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3d449a1f7556d80800000000000000
+      internalID: -8258097646275341358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wildboar_Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 31
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7577da7a50a21a110800000000000000
+      internalID: 1270342773671556951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wildboar_Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 31
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39079e3fb9fefdbf0800000000000000
+      internalID: -297255597292031853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wildboar_Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84da3e3846849d060800000000000000
+      internalID: 6978688694133960008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wildboar_Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865b665c9642d2db0800000000000000
+      internalID: -4815152389887183512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wildboar_Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d472e5dea0afe10800000000000000
+      internalID: 2232108579918663024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wildboar_Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8522082251331bc0800000000000000
+      internalID: -3813650230524369525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wildboar_Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56af6979542faee80800000000000000
+      internalID: -8148434195063571867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Wildboar_Sheet_0: -527885272381704573
+      Wildboar_Sheet_1: 2961547849429141569
+      Wildboar_Sheet_10: -1026654187619518486
+      Wildboar_Sheet_11: -8595061020727272344
+      Wildboar_Sheet_12: 5278066010680601942
+      Wildboar_Sheet_13: -3570193640756583539
+      Wildboar_Sheet_14: -1325143526358289541
+      Wildboar_Sheet_15: -350360528365540722
+      Wildboar_Sheet_16: 1958288965309462831
+      Wildboar_Sheet_17: 5598052447041826918
+      Wildboar_Sheet_18: -298110766319077460
+      Wildboar_Sheet_19: 5178740258926102840
+      Wildboar_Sheet_2: -335580559929407488
+      Wildboar_Sheet_20: 4802472780965694275
+      Wildboar_Sheet_21: 8713677755737441959
+      Wildboar_Sheet_22: 8730385787534809977
+      Wildboar_Sheet_23: -7495106779289545314
+      Wildboar_Sheet_24: 3294871848786530941
+      Wildboar_Sheet_25: 2793970184391836004
+      Wildboar_Sheet_26: 6104888946061331356
+      Wildboar_Sheet_27: -8258097646275341358
+      Wildboar_Sheet_28: 1270342773671556951
+      Wildboar_Sheet_29: -297255597292031853
+      Wildboar_Sheet_3: 4728421587029404282
+      Wildboar_Sheet_30: 6978688694133960008
+      Wildboar_Sheet_31: -4815152389887183512
+      Wildboar_Sheet_32: 2232108579918663024
+      Wildboar_Sheet_33: -3813650230524369525
+      Wildboar_Sheet_34: -8148434195063571867
+      Wildboar_Sheet_4: -1575679966824821377
+      Wildboar_Sheet_5: 3196453642349659526
+      Wildboar_Sheet_6: 1481239712364827838
+      Wildboar_Sheet_7: -1859123544067297040
+      Wildboar_Sheet_8: -4507355183732385911
+      Wildboar_Sheet_9: -3024587540063909679
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
